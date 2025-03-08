@@ -1,1 +1,1 @@
-[# Visit wiki](https://olympus-community.github.io/)
+[Visit wiki](https://olympus-community.github.io/)
